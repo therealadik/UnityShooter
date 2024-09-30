@@ -1,0 +1,84 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Ss]ysroot/
+
+# Avoid uploading crash reports
+*.crash
+
+# Exclude lightmap cache and GI files
+[Ll]ightmapSnapshot
+*.rsc
+*.cache
+
+# Exclude asset bundle data
+*.assetbundle
+*.unitypackage
+
+# Do not track local Unity settings
+UserSettings/
+
+# ========================= #
+# Visual Studio generated #
+# ========================= #
+
+.vscode/
+.vs/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Mac generated files
+.DS_Store
+*.DS_Store
+.DS_Store?
+
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+
+# Temporary files created by Unity during builds
+*.stackdump
+
+# Unity3D Asset Store files
+*.unitypackage
+
+# ==================== #
+# Migrations and caches #
+# ==================== #
+
+# JetBrains Rider caches
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/.idea_modules.xml
+.idea/assets_caches.xml
+
+# Unity Asset Database
+[Ll]ibrary/asset_database*
+[Ll]ibrary/metadata/

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b28760e8-736c-edf7-fb91-6d3e42129563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{526f4da4-21db-cd9f-c1d7-cb1fca262394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Crosshairs.Editor", "OccaSoftware.Crosshairs.Editor.csproj", "{492f837c-804d-8a1d-5980-5d67a62a4a5d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URPWizard", "URPWizard.csproj", "{28046bf0-9df1-96ba-e889-4c3f2f1549f0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b28760e8-736c-edf7-fb91-6d3e42129563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b28760e8-736c-edf7-fb91-6d3e42129563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526f4da4-21db-cd9f-c1d7-cb1fca262394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526f4da4-21db-cd9f-c1d7-cb1fca262394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492f837c-804d-8a1d-5980-5d67a62a4a5d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492f837c-804d-8a1d-5980-5d67a62a4a5d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28046bf0-9df1-96ba-e889-4c3f2f1549f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28046bf0-9df1-96ba-e889-4c3f2f1549f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
